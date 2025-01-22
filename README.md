@@ -1,2 +1,3 @@
-# AWS-Project---Build-a-Game-with-a-Continuous-Deployment-Pipeline-from-GitHub-to-S3-
+#Continuous Deployment using AWS Code Pipeline and S3
+## THE GAME
 meme-matching-game
