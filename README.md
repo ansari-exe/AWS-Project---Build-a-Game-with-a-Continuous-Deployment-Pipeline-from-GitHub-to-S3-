@@ -4,7 +4,7 @@ A simple memory matching game. The user clicks two cards (images of memes) to ma
 
 The game consists of HTML, CSS, and JavaScript.
 
-#Ideas for additional features:
+# Ideas for additional features:
 
 • A scoring mechanism
 • A timer
